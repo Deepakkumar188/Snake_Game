@@ -1,4 +1,4 @@
-# 🐍 Advanced Snake Game — OOP Edition
+# 🐍 Advanced Snake Game — OOPs Edition
 
 A fully **Object-Oriented Python Snake Game** built using **Turtle Graphics**.
 This project is designed to demonstrate core OOP concepts in a fun, playable game.
